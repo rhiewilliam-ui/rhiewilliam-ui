@@ -9,9 +9,9 @@
 ### Ce sur quoi je travaille
 
 - **Langages**  C, C++, C#, Python
-- **Web** HTML, CSS, JavaScript
-- **Bases de données** MySQL
-- **Outils** Visual Studio, VS Code, Git
+- **Web**  HTML, CSS, JavaScript
+- **Bases de données**  MySQL
+- **Outils**  Visual Studio, VS Code, Git
 
 ### En ce moment
 
